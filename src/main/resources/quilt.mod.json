@@ -1,17 +1,17 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "com.example",
-		"id": "example_mod",
+		"group": "com.seacroak",
+		"id": "drinking_remastered",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
-			"description": "A short description of your mod.",
+			"name": "Drinking Remastered",
+			"description": "A truly immersive drinking experience",
 			"contributors": {
-				"Your name here": "Owner"
+				"Your name here": "Khazoda"
 			},
 			"contact": {
-				"homepage": "https://example.com/",
+				"homepage": "https://seacroak.com/",
 				"issues": "https://github.com/QuiltMC/quilt-template-mod/issues",
 				"sources": "https://github.com/QuiltMC/quilt-template-mod"
 			},
@@ -19,7 +19,7 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.example.example_mod.ExampleMod"
+			"init": "com.seacroak.drinking_remastered.ExampleMod"
 		},
 		"depends": [
 			{
@@ -36,5 +36,5 @@
 			}
 		]
 	},
-	"mixin": "example_mod.mixins.json"
+	"mixin": "drinking_remastered.mixins.json"
 }
