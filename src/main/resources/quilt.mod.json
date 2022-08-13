@@ -19,7 +19,7 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.seacroak.drinking_remastered.ExampleMod"
+			"init": "com.seacroak.drinking_remastered.Drinking"
 		},
 		"depends": [
 			{

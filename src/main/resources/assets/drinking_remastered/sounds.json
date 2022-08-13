@@ -1,0 +1,11 @@
+{
+  "silence": {
+    "sounds": ["drinking_remastered:silence"]
+  },
+  "sip_1": {
+    "sounds": ["drinking_remastered:sip_1"]
+  },
+  "cupcakke": {
+    "sounds": ["drinking_remastered:cupcakke"]
+  }
+}

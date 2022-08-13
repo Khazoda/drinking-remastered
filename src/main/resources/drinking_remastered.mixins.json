@@ -3,7 +3,7 @@
 	"minVersion": "0.8",
 	"package": "com.seacroak.drinking_remastered.mixin",
 	"compatibilityLevel": "JAVA_17",
-	"mixins": [],
+	"mixins": ["DrinkMixin","PotionMixin"],
 	"client": [
 		"TitleScreenMixin"
 	],
